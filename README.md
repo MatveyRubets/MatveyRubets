@@ -17,7 +17,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/rubets-matvii" target="blank">
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="rubets-matvii" /></a>
-  <a href="https://fb.com/matthewrubets" target="blank"><img align="left" width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="matthewrubets" height="30" width="30" /></a>
+<a href="https://fb.com/matthewrubets" target="blank"><img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="matthewrubets" height="30" width="30" /></a>
+</p>
 </p>
 
 <h3 align="left">🧰 Languages and Tools:</h3>
