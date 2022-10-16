@@ -20,7 +20,6 @@
 <a href="https://linkedin.com/in/rubets-matvii" target="blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubets-matvii" height="30" width="30" /></a>
  <a href="https://fb.com/matthewrubets" target="blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matthewrubets" height="30" width="30" /></a>
 </p>
-</p>
 
 #
 
