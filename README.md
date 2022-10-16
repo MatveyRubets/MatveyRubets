@@ -13,12 +13,16 @@
 
 - ⚡ Fun fact **I'm 17 :D**
 
+#
+
 <h3 align="left">📇 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rubets-matvii" target="blank">
-<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="rubets-matvii" /></a>
-<a href="https://fb.com/matthewrubets" target="blank"><img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="matthewrubets" height="30" width="30" /></a>
-</p><br/>
+<a href="https://linkedin.com/in/rubets-matvii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubets-matvii" height="30" width="30" /></a>
+  <a href="https://fb.com/matthewrubets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matthewrubets" height="30" width="30" /></a>
+</p>
+</p>
+
+#
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p>
@@ -32,6 +36,10 @@
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</p><br/>
+</p>
+
+#
+
+### 📊 Stats
 
 ![Matvii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matvii&theme=dark&show_icons=true)
