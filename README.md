@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **matthewrubets@gmail.com**
 
-- 📄 My CV [https://drive.google.com/file/d/1exhxpD53dSuYyWAmfq99xyo7Jkbs4_22/view?usp=sharing](https://drive.google.com/file/d/1exhxpD53dSuYyWAmfq99xyo7Jkbs4_22/view?usp=sharing)
+- 📄 My [CV](https://drive.google.com/file/d/1exhxpD53dSuYyWAmfq99xyo7Jkbs4_22/view?usp=sharing)
 
 - ⚡ Fun fact **I'm 17 :D**
 
