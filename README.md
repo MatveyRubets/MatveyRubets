@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Typescript**
 
-- 📫 React out to me -> **matthewrubets@gmail.com**
+- 📫 Reach out to me -> **matthewrubets@gmail.com**
 
 - 📄 My [CV](https://drive.google.com/file/d/1exhxpD53dSuYyWAmfq99xyo7Jkbs4_22/view?usp=sharing)
 
