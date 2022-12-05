@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Express REST App](https://github.com/MatveyRubets/nodejs-homework)
 
-- 🌱 I’m currently learning **NodeJS, express**
-
 - 💬 Ask me about **React, Typescript**
 
 - 📫 Reach out to me -> **matthewrubets@gmail.com**
