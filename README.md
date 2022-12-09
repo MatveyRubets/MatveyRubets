@@ -1,13 +1,11 @@
 <h1 align="left">🌪 Matvii Rubets</h1>
 <h3 align="left">I am an aspiring web developer who is looking for an entry level job</h3>
 
-- 🔭 I’m currently working on [Express REST App](https://github.com/MatveyRubets/nodejs-homework)
-
 - 💬 Ask me about **React, Typescript**
 
-- 📫 Reach out to me -> **matthewrubets@gmail.com**
+- 📫 Reach out to me -> **rmatvey11@gmail.com**
 
-- 📄 My [CV](https://drive.google.com/file/d/1exhxpD53dSuYyWAmfq99xyo7Jkbs4_22/view?usp=sharing)
+- 📄 My [CV](https://drive.google.com/file/d/1xdTOxDlBkFDZbwz9TJFhwrtOReh1m7ge/view?usp=sharing)
 
 - ⚡ Fun fact **I'm 17 :D**
 
