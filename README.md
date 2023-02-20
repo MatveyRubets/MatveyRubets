@@ -1,4 +1,4 @@
-<h1 align="left">🌪 Matvii Rubets</h1>
+<h1 align="left">Matvii Rubets</h1>
 <h3 align="left">I am an aspiring web developer who is looking for an entry level job</h3>
 
 - 💬 Ask me about **React, Typescript**
