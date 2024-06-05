@@ -7,8 +7,6 @@
 
 - 📄 My [CV](https://drive.google.com/file/d/1xdTOxDlBkFDZbwz9TJFhwrtOReh1m7ge/view?usp=sharing)
 
-- ⚡ Fun fact **I'm 17 :D**
-
 #
 
 <h3 align="left">📇 Connect with me:</h3>
