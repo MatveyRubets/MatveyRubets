@@ -1,11 +1,10 @@
 <h1 align="left">Matvii Rubets</h1>
-<h3 align="left">I am an aspiring web developer who is looking for an entry level job</h3>
+<h3 align="left">I am an aspiring full stack developer who is looking for an entry level job</h3>
 
-- 💬 Ask me about **React, Typescript**
+- 💬 Ask me about **Next.js, Java**
 
-- 📫 Reach out to me -> **rmatvey11@gmail.com**
+- 📫 Reach out to me -> **matviirubets@gmail.com**
 
-- 📄 My [CV](https://drive.google.com/file/d/1xdTOxDlBkFDZbwz9TJFhwrtOReh1m7ge/view?usp=sharing)
 
 #
 
